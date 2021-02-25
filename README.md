@@ -16,3 +16,7 @@ Feeds serial data to an Arduino. Program runs facial recognition using the AForg
 
 
 Program that runs on an Arduino microcontroller to interpret the serial data send from the WinForm, and control the movement of servo motors. The AruinoInterpreter program parses serial data sent from WinForm and carrys out functions determined by the data that was sent. 
+
+
+
+-- Archived 
